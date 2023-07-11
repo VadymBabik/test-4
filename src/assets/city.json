@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Kyiv",
+    "latitude": 50.4375,
+    "longitude": 30.5
+  },  {
+    "name": "Dnipro",
+    "latitude": 48.4375,
+    "longitude": 35.0625
+  },  {
+    "name": "Odessa",
+    "latitude": 46.5,
+    "longitude":30.75
+  },  {
+    "name": "London",
+    "latitude": 51.5,
+    "longitude":-0.120000124
+  },  {
+    "name": "Helsinki",
+    "latitude":60.17136,
+    "longitude":24.927353
+  },  {
+    "name": "Venice",
+    "latitude": 45.44,
+    "longitude":12.339998
+  },  {
+    "name": "Luxembourg",
+    "latitude": 49.760002,
+    "longitude":6.1599994
+  },  {
+    "name": "Amsterdam",
+    "latitude": 52.38,
+    "longitude":4.8799996
+  }
+]

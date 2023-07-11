@@ -1,0 +1,13 @@
+@layer utilities {
+  .basic-input {
+    @apply py-[11px] px-[16px] rounded-[12px] min-w-[160px] text-gray bg-gray-light border border-gray appearance-none focus:outline-none;
+  }
+}
+
+@layer base {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
